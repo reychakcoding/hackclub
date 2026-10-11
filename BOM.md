@@ -16,11 +16,10 @@
 | [0.96 OLED](https://www.amazon.com/gp/product/B0GBWXTR1Z/ref=ewc_pr_img_2?smid=A3CX4TQNUXMB0L&th=1) | the display | 1 | $5.99 | $5.99 | [Amazon](https://www.amazon.com/gp/product/B0GBWXTR1Z/ref=ewc_pr_img_2?smid=A3CX4TQNUXMB0L&th=1) |
 | [MPU6050](https://www.amazon.com/dp/B0943SGP34) | movement sensor | 1 | $4.95 | $4.95 | [Amazon](https://www.amazon.com/dp/B0943SGP34) |
 | [DHT11](https://amazon.com/gp/product/B0DSW7PV2R/ref=ewc_pr_img_1?smid=A2YVUAXDHNNV2K&psc=1) | Environment sensor | 1 | $4.62 | $4.62 | [Amazon](https://amazon.com/gp/product/B0DSW7PV2R/ref=ewc_pr_img_1?smid=A2YVUAXDHNNV2K&psc=1) |
-| [Keycaps](https://www.amazon.com/dp/B0CQ2VLMVY) | the keycaps for the switches | 4 | $0.60 | $2.40 | [Amazon](https://www.amazon.com/dp/B0CQ2VLMVY) |
 | [10k Resistor](https://www.amazon.com/dp/B0B4JFPHTW) | So that my stuff dont break xd | 1 | $0.05 | $0.05 | [Amazon](https://www.amazon.com/dp/B0B4JFPHTW) |
 | [PCB](https://www.jlcpcb.com/) | The main circuit board | 1 | $10.00 | $10.00 | [JLCPCB](https://www.jlcpcb.com/) |
-| **Parts subtotal** | — | — | — | **$33.01** | — |
+| **Parts subtotal** | — | — | — | **$30.61** | — |
 | **Tax & shipping** | — | — | — | **$3.71** | — |
-| **Total** | — | — | — | **$36.72** | — |
+| **Total** | — | — | — | **$34.32** | — |
 
-**$6.72 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$4.32 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
