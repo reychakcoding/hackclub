@@ -17,7 +17,6 @@
 | [MPU6050](https://www.amazon.com/dp/B0943SGP34) | movement sensor | 1 | $2.29 | $2.29 | [Amazon](https://www.amazon.com/dp/B0943SGP34) |
 | [DHT11](https://www.amazon.com/dp/B0BLG7R99R) | Environment sensor | 1 | $3.33 | $3.33 | [Amazon](https://www.amazon.com/dp/B0BLG7R99R) |
 | [MX Switches](https://www.amazon.com//dp/B0FQP8VYX4) | the switches for the buttons | 4 | $0.18 | $0.72 | [Amazon](https://www.amazon.com//dp/B0FQP8VYX4) |
-| [Keycaps](https://www.amazon.com/dp/B0CQ2VLMVY) | — | 4 | $0.00 | $0.00 | [Amazon](https://www.amazon.com/dp/B0CQ2VLMVY) |
 | [10k Resistor](https://www.amazon.com/dp/B0B4JFPHTW) | — | 1 | $0.00 | $0.00 | [Amazon](https://www.amazon.com/dp/B0B4JFPHTW) |
 | [PCB](https://www.jlcpcb.com/) | — | 1 | $0.00 | $0.00 | [JLCPCB](https://www.jlcpcb.com/) |
 | **Parts subtotal** | — | — | — | **$13.84** | — |
