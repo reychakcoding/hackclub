@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 4.79h | 7 |
+| Week 1 | Tier 1 | 7.09h | 7 |
 
 ## Contents
 
@@ -20,7 +20,7 @@
 4. [2026-10-10 – Work session](#2026-10-10-work-session)
 5. [2026-10-11 – Work session](#2026-10-11-work-session)
 6. [2026-10-11 – I finally set up my Arduino editor. I had some computer problems/bugs that took me a long time to fix, and it originally didn't let me upload the libraries. I got that figured out, and successfully do](#2026-10-11-i-finally-set-up-my-arduino-editor-i-had-some-com)
-7. [2026-10-11 – Work session](#2026-10-11-work-session)
+7. [2026-10-11 – i finished my project(except for putting everything in the repositories, which i'm about to do)! i had some bugs that I had to fix, just fixed those.](#2026-10-11-i-finished-my-projectexcept-for-putting-everythin)
 
 ## Design
 
@@ -66,8 +66,17 @@ I finally set up my Arduino editor. I had some computer problems/bugs that took 
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/eGQN5Pu9FyCbCeTHIOSGFfpxN7YBQy9Z/ba91e3f5bc78af81deb067ea9796913aa757d5899cb44ce640758e62e3a74ad4.png)
 
-### 2026-10-11 – Work session
+### 2026-10-11 – i finished my project(except for putting everything in the repositories, which i'm about to do)! i had some bugs that I had to fix, just fixed those.
 
-**0.18h**
+**2.48h**
+
+i finished my project(except for putting everything in the repositories, which i'm about to do)! i had some bugs that I had to fix, just fixed those.
+i made my pet based on spiderman, turned out kinda like deadpool tho :\
+addded the star effect too, but I don't really understand how to make it a different shape otherwise I'd try to make it like a web or something but I'm not that advanced.
+The timelapse is the very start, I decided to combine these 2 entries as the timelapse was really short but they were pretty much 1 workign session, a minimal ish break in the middle
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/eGQN5Pu9FyCbCeTHIOSGFfpxN7YBQy9Z/c937cd118b8e157976ae3e2630e6070ff6c70202f3c493a72160e018875a6496.png)
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/eGQN5Pu9FyCbCeTHIOSGFfpxN7YBQy9Z/4121348a399daeb53acb7fb07a6c5b24706e5425f5f756ffc29caa3127c42bd9.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/518c41d3-6f8c-4a97-a4cd-43b11664c929/video.mp4)
