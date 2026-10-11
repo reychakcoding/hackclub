@@ -19,7 +19,7 @@
 | [10k Resistor](https://www.amazon.com/California-JOS-Tolerance-Resistance-10K/dp/B0BDKY8VQG/ref=sr_1_9?crid=2Y18KK3BHS1IP&dib=eyJ2IjoiMSJ9.6uu5JO-HYThVbztiQ4X9cyN6ZjwAS3aTwndRSy9CbVB8J8J-kdhFzsCGyTY2zQCgTFT1NYuh1c2_Beja9frkIbpPMYUI-68FuKmPu3V2G4MHICd2DXzZaVFsnlnfY8mZUuSdP4Hszi1E6nwQ10v74cxPBQtCkji0sV2cEPJyENgFNwultuVc6vsRMW6EA7vn9z2o3cqi6EPdKpMMhm6f034JcIrNShKxFnsVDvqqLKw.CauXqt0oJvkhkEuQSW73DY7hl-mO0T4tmBUtH-yPEFs&dib_tag=se&keywords=10k%2Bresistor&qid=1791757154&refinements=p_36%3A-1300&rnid=2661611011&sprefix=10k%2Bresisto%2Caps%2C179&sr=8-9&th=1) | So that my stuff dont break xd | 1 | $3.99 | $3.99 | [Amazon](https://www.amazon.com/California-JOS-Tolerance-Resistance-10K/dp/B0BDKY8VQG/ref=sr_1_9?crid=2Y18KK3BHS1IP&dib=eyJ2IjoiMSJ9.6uu5JO-HYThVbztiQ4X9cyN6ZjwAS3aTwndRSy9CbVB8J8J-kdhFzsCGyTY2zQCgTFT1NYuh1c2_Beja9frkIbpPMYUI-68FuKmPu3V2G4MHICd2DXzZaVFsnlnfY8mZUuSdP4Hszi1E6nwQ10v74cxPBQtCkji0sV2cEPJyENgFNwultuVc6vsRMW6EA7vn9z2o3cqi6EPdKpMMhm6f034JcIrNShKxFnsVDvqqLKw.CauXqt0oJvkhkEuQSW73DY7hl-mO0T4tmBUtH-yPEFs&dib_tag=se&keywords=10k%2Bresistor&qid=1791757154&refinements=p_36%3A-1300&rnid=2661611011&sprefix=10k%2Bresisto%2Caps%2C179&sr=8-9&th=1) |
 | [PCB](https://www.jlcpcb.com/) | The main circuit board | 1 | $10.00 | $10.00 | [JLCPCB](https://www.jlcpcb.com/) |
 | **Parts subtotal** | — | — | — | **$34.55** | — |
-| **Tax & shipping** | — | — | — | **$3.71** | — |
-| **Total** | — | — | — | **$38.26** | — |
+| **Tax & shipping** | — | — | — | **$4.80** | — |
+| **Total** | — | — | — | **$39.35** | — |
 
-**$8.26 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$9.35 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
