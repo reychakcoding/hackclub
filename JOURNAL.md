@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 4.81h | 6 |
+| Week 1 | Tier 1 | 4.61h | 6 |
 
 ## Contents
 
@@ -19,7 +19,7 @@
 3. [2026-10-08 – Work session](#2026-10-08-work-session)
 4. [2026-10-10 – Work session](#2026-10-10-work-session)
 5. [2026-10-11 – Work session](#2026-10-11-work-session)
-6. [2026-10-11 – I finally set up my Arduino editor. I had some storage problems, and it originally didn't let me upload the libraries. I got that figured out, and successfully downloaded all the required libraries. I](#2026-10-11-i-finally-set-up-my-arduino-editor-i-had-some-sto)
+6. [2026-10-11 – I finally set up my Arduino editor. I had some computer problems/bugs that took me a long time to fix, and it originally didn't let me upload the libraries. I got that figured out, and successfully do](#2026-10-11-i-finally-set-up-my-arduino-editor-i-had-some-com)
 
 ## Design
 
@@ -53,11 +53,11 @@
 
 [Timelapse](https://lookout.hackclub.com/api/media/835ac111-85f8-448a-85e1-7578a520c8e7/video.mp4)
 
-### 2026-10-11 – I finally set up my Arduino editor. I had some storage problems, and it originally didn't let me upload the libraries. I got that figured out, and successfully downloaded all the required libraries. I
+### 2026-10-11 – I finally set up my Arduino editor. I had some computer problems/bugs that took me a long time to fix, and it originally didn't let me upload the libraries. I got that figured out, and successfully do
 
-**1.47h**
+**1.27h**
 
-I finally set up my Arduino editor. I had some storage problems, and it originally didn't let me upload the libraries. I got that figured out, and successfully downloaded all the required libraries. I look forward to coding the rest!
+I finally set up my Arduino editor. I had some computer problems/bugs that took me a long time to fix, and it originally didn't let me upload the libraries. I got that figured out, and successfully downloaded all the required libraries. I look forward to coding the rest!
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/eGQN5Pu9FyCbCeTHIOSGFfpxN7YBQy9Z/300d8c44e3d2415597552ad524f50c2063710417a5be4ff1fa76879bdf3c9957.png)
 
