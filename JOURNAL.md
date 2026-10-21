@@ -34,6 +34,8 @@
 
 **0.63h**
 
+Work session
+
 [Timelapse](https://lookout.hackclub.com/api/media/0927960b-079c-4f5e-a367-05340bd47413/video.mp4)
 
 ### 2026-10-08 – Work session
