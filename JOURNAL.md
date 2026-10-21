@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 7.09h | 7 |
+| Week 1 | Tier 1 | 6.79h | 7 |
 
 ## Contents
 
@@ -68,7 +68,7 @@ I finally set up my Arduino editor. I had some computer problems/bugs that took 
 
 ### 2026-10-11 – i finished my project(except for putting everything in the repositories, which i'm about to do)! i had some bugs that I had to fix, just fixed those.
 
-**2.48h**
+**2.18h**
 
 i finished my project(except for putting everything in the repositories, which i'm about to do)! i had some bugs that I had to fix, just fixed those.
 i made my pet based on spiderman, turned out kinda like deadpool tho :\
