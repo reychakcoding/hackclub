@@ -4,9 +4,9 @@
 <!-- Generated: 2026-10-11T20:57:31.614Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuyu2e4101ci01rwkup6yf5n). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A tiny motion-controlled digital pet, basically a desktop Tamagotchi. Totally not a Starboy.
+> This is my version of the Starbie project. A starbie is kinda like a desktop Tamagotchi. (totally not a starboy)
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
