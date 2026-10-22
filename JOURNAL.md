@@ -17,7 +17,7 @@
 1. [2026-10-07 – Work session](#2026-10-07-work-session)
 2. [2026-10-08 – Work session](#2026-10-08-work-session)
 3. [2026-10-08 – Work session](#2026-10-08-work-session)
-4. [2026-10-10 – Work session](#2026-10-10-work-session)
+4. [2026-10-10 – I restarted the project due to a lot of bugs. I successfully completed all the steps from the start to firmware, though! My first attempt was a big learning experience and I know how everything works](#2026-10-10-i-restarted-the-project-due-to-a-lot-of-bugs-i-su)
 5. [2026-10-11 – I was really just like downloading and setting up  arduino and then cleared my storage in this session as i was really low in storage. I didn't do anything really monumental to the actual project itse](#2026-10-11-i-was-really-just-like-downloading-and-setting-up)
 6. [2026-10-11 – I finally set up my Arduino editor. I had some computer problems/bugs that took me a long time to fix, and it originally didn't let me upload the libraries. I got that figured out, and successfully do](#2026-10-11-i-finally-set-up-my-arduino-editor-i-had-some-com)
 7. [2026-10-11 – i finished my project(except for putting everything in the repositories, which i'm about to do)! i had some bugs that I had to fix, just fixed those.](#2026-10-11-i-finished-my-projectexcept-for-putting-everythin)
@@ -44,9 +44,11 @@ Work session
 
 [Timelapse](https://lookout.hackclub.com/api/media/49dd183e-8b0e-42f8-a5ee-19d2340f6c32/video.mp4)
 
-### 2026-10-10 – Work session
+### 2026-10-10 – I restarted the project due to a lot of bugs. I successfully completed all the steps from the start to firmware, though! My first attempt was a big learning experience and I know how everything works
 
 **1.33h**
+
+I restarted the project due to a lot of bugs. I successfully completed all the steps from the start to firmware, though! My first attempt was a big learning experience and I know how everything works now.
 
 [Timelapse](https://lookout.hackclub.com/api/media/458fd1f8-8fc7-466b-8664-1fa9ddd47b0e/video.mp4)
 
