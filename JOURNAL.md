@@ -52,6 +52,12 @@ I was figuring out how to connect all the lines in the actual PCB editor and I f
 
 I restarted the project due to a lot of bugs. I successfully completed all the steps from the start to firmware, though! My first attempt was a big learning experience and I know how everything works now.
 
+![image](https://halflife.hackclub-assets.com/sessions/eGQN5Pu9FyCbCeTHIOSGFfpxN7YBQy9Z/37385cd4bb973b282749f64fbea5f12c6af2b65cfbf66a84316c6487322ed7da.png)
+
+![image](https://halflife.hackclub-assets.com/sessions/eGQN5Pu9FyCbCeTHIOSGFfpxN7YBQy9Z/4e30aa537234b69655a8fa835137a64394f2b1212c5caab065af3a7bc10cd1ec.png)
+
+![image](https://halflife.hackclub-assets.com/sessions/eGQN5Pu9FyCbCeTHIOSGFfpxN7YBQy9Z/c4e4b805121b59ff8e1c25315cd60b6db19216fc538dd256b6481ef75284d1c6.png)
+
 [Timelapse](https://lookout.hackclub.com/api/media/458fd1f8-8fc7-466b-8664-1fa9ddd47b0e/video.mp4)
 
 ### 2026-10-11 – I was really just like downloading and setting up  arduino and then cleared my storage in this session as i was really low in storage. I didn't do anything really monumental to the actual project itse
