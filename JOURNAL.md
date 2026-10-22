@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 6.79h | 7 |
+| Week 1 | Tier 1 | 7.19h | 7 |
 
 ## Contents
 
@@ -62,7 +62,7 @@ I was figuring out how to connect all the lines in the actual PCB editor and I f
 
 ### 2026-10-10 – I restarted the project due to a lot of bugs. I successfully completed all the steps from the start to firmware, though! My first attempt was a big learning experience and I know how everything works
 
-**1.33h**
+**1.73h**
 
 I restarted the project due to a lot of bugs. I successfully completed all the steps from the start to firmware, though! My first attempt was a big learning experience and I know how everything works now.
 
