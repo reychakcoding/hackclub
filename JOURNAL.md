@@ -16,7 +16,7 @@
 
 1. [2026-10-07 – Work session](#2026-10-07-work-session)
 2. [2026-10-08 – Work session](#2026-10-08-work-session)
-3. [2026-10-08 – Work session](#2026-10-08-work-session)
+3. [2026-10-08 – I was figuring out how to connect all the lines in the actual PCB editor and I fuinished all my hardware. I got the basic outline down and fit everything together properly so it actualyl looks good to](#2026-10-08-i-was-figuring-out-how-to-connect-all-the-lines-i)
 4. [2026-10-10 – I restarted the project due to a lot of bugs. I successfully completed all the steps from the start to firmware, though! My first attempt was a big learning experience and I know how everything works](#2026-10-10-i-restarted-the-project-due-to-a-lot-of-bugs-i-su)
 5. [2026-10-11 – I was really just like downloading and setting up  arduino and then cleared my storage in this session as i was really low in storage. I didn't do anything really monumental to the actual project itse](#2026-10-11-i-was-really-just-like-downloading-and-setting-up)
 6. [2026-10-11 – I finally set up my Arduino editor. I had some computer problems/bugs that took me a long time to fix, and it originally didn't let me upload the libraries. I got that figured out, and successfully do](#2026-10-11-i-finally-set-up-my-arduino-editor-i-had-some-com)
@@ -38,9 +38,11 @@ Work session
 
 [Timelapse](https://lookout.hackclub.com/api/media/0927960b-079c-4f5e-a367-05340bd47413/video.mp4)
 
-### 2026-10-08 – Work session
+### 2026-10-08 – I was figuring out how to connect all the lines in the actual PCB editor and I fuinished all my hardware. I got the basic outline down and fit everything together properly so it actualyl looks good to
 
 **0.77h**
+
+I was figuring out how to connect all the lines in the actual PCB editor and I fuinished all my hardware. I got the basic outline down and fit everything together properly so it actualyl looks good too.
 
 [Timelapse](https://lookout.hackclub.com/api/media/49dd183e-8b0e-42f8-a5ee-19d2340f6c32/video.mp4)
 
