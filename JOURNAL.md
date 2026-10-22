@@ -44,6 +44,10 @@ Work session
 
 I was figuring out how to connect all the lines in the actual PCB editor and I fuinished all my hardware. I got the basic outline down and fit everything together properly so it actualyl looks good too.
 
+![image](https://halflife.hackclub-assets.com/sessions/eGQN5Pu9FyCbCeTHIOSGFfpxN7YBQy9Z/230bbd7dcbc7d50518da07db1f60b6861c63dd0a29c9c2ed8a4b2eb3ebacf42d.png)
+
+![image](https://halflife.hackclub-assets.com/sessions/eGQN5Pu9FyCbCeTHIOSGFfpxN7YBQy9Z/20a969712ac20b7c6b3a35c4ae7e6bcc52c24a7110a5af62189c081c2974bd40.png)
+
 [Timelapse](https://lookout.hackclub.com/api/media/49dd183e-8b0e-42f8-a5ee-19d2340f6c32/video.mp4)
 
 ### 2026-10-10 – I restarted the project due to a lot of bugs. I successfully completed all the steps from the start to firmware, though! My first attempt was a big learning experience and I know how everything works
