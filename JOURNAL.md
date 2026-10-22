@@ -60,6 +60,10 @@ I restarted the project due to a lot of bugs. I successfully completed all the s
 
 I was really just like downloading and setting up  arduino and then cleared my storage in this session as i was really low in storage. I didn't do anything really monumental to the actual project itself though.
 
+![image](https://halflife.hackclub-assets.com/sessions/eGQN5Pu9FyCbCeTHIOSGFfpxN7YBQy9Z/bdc76f8a8f96150373090eaf324623c4bf24b7c5e2ee27bc2a833c4158d6a786.png)
+
+![image](https://halflife.hackclub-assets.com/sessions/eGQN5Pu9FyCbCeTHIOSGFfpxN7YBQy9Z/df4a39118f2924c374e17b44058fd5ae19d76039fd1dd6d14918781ef5b9c43f.png)
+
 [Timelapse](https://lookout.hackclub.com/api/media/835ac111-85f8-448a-85e1-7578a520c8e7/video.mp4)
 
 ### 2026-10-11 – I finally set up my Arduino editor. I had some computer problems/bugs that took me a long time to fix, and it originally didn't let me upload the libraries. I got that figured out, and successfully do
