@@ -14,7 +14,7 @@
 
 ## Contents
 
-1. [2026-10-07 – Work session](#2026-10-07-work-session)
+1. [2026-10-07 – i just started with my first ever time building a pcb, started the starbie guide so far!!! ive just doen the basic stuff so far like qthe big motherboard and some of the smaller pins too. i look forwo](#2026-10-07-i-just-started-with-my-first-ever-time-building-a)
 2. [2026-10-08 – I was almost done with finishing the hardware and did some stuff with the pcb. i was also gettign confused by the xiao esp32 smd as in the imported parts list it was different then the part's list, wh](#2026-10-08-i-was-almost-done-with-finishing-the-hardware-and)
 3. [2026-10-08 – I was figuring out how to connect all the lines in the actual PCB editor and I fuinished all my hardware. I got the basic outline down and fit everything together properly so it actualyl looks good to](#2026-10-08-i-was-figuring-out-how-to-connect-all-the-lines-i)
 4. [2026-10-10 – I restarted the project due to a lot of bugs. I successfully completed all the steps from the start to firmware, though! My first attempt was a big learning experience and I know how everything works](#2026-10-10-i-restarted-the-project-due-to-a-lot-of-bugs-i-su)
@@ -24,9 +24,15 @@
 
 ## Design
 
-### 2026-10-07 – Work session
+### 2026-10-07 – i just started with my first ever time building a pcb, started the starbie guide so far!!! ive just doen the basic stuff so far like qthe big motherboard and some of the smaller pins too. i look forwo
 
 **0.33h**
+
+i just started with my first ever time building a pcb, started the starbie guide so far!!! ive just doen the basic stuff so far like qthe big motherboard and some of the smaller pins too. i look forword to finishing my project!
+
+![image](https://halflife.hackclub-assets.com/sessions/eGQN5Pu9FyCbCeTHIOSGFfpxN7YBQy9Z/19c4585559212ac940b2dbffe0d7fb131d278a5db8dbc12f396a01e36bc46dda.png)
+
+![image](https://halflife.hackclub-assets.com/sessions/eGQN5Pu9FyCbCeTHIOSGFfpxN7YBQy9Z/4f2fa02017205a9df03dff740b157cecef95cfd32f5a5ea659786c342fc6fb3e.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/8e91e365-b678-4b8f-aa99-0486369ffe7f/video.mp4)
 
