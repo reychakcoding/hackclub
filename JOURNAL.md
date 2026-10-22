@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-07 – Work session](#2026-10-07-work-session)
-2. [2026-10-08 – Work session](#2026-10-08-work-session)
+2. [2026-10-08 – I was almost done with finishing the hardware and did some stuff with the pcb. i was also gettign confused by the xiao esp32 smd as in the imported parts list it was different then the part's list, wh](#2026-10-08-i-was-almost-done-with-finishing-the-hardware-and)
 3. [2026-10-08 – I was figuring out how to connect all the lines in the actual PCB editor and I fuinished all my hardware. I got the basic outline down and fit everything together properly so it actualyl looks good to](#2026-10-08-i-was-figuring-out-how-to-connect-all-the-lines-i)
 4. [2026-10-10 – I restarted the project due to a lot of bugs. I successfully completed all the steps from the start to firmware, though! My first attempt was a big learning experience and I know how everything works](#2026-10-10-i-restarted-the-project-due-to-a-lot-of-bugs-i-su)
 5. [2026-10-11 – I was really just like downloading and setting up  arduino and then cleared my storage in this session as i was really low in storage. I didn't do anything really monumental to the actual project itse](#2026-10-11-i-was-really-just-like-downloading-and-setting-up)
@@ -30,11 +30,15 @@
 
 [Timelapse](https://lookout.hackclub.com/api/media/8e91e365-b678-4b8f-aa99-0486369ffe7f/video.mp4)
 
-### 2026-10-08 – Work session
+### 2026-10-08 – I was almost done with finishing the hardware and did some stuff with the pcb. i was also gettign confused by the xiao esp32 smd as in the imported parts list it was different then the part's list, wh
 
 **0.63h**
 
-Work session
+I was almost done with finishing the hardware and did some stuff with the pcb. i was also gettign confused by the xiao esp32 smd as in the imported parts list it was different then the part's list, which i was scaared about.
+
+![image](https://halflife.hackclub-assets.com/sessions/eGQN5Pu9FyCbCeTHIOSGFfpxN7YBQy9Z/54be28f12da85dd798348aa6895b47eaf18e3faeae183df2ff3d52aa3aa78673.png)
+
+![image](https://halflife.hackclub-assets.com/sessions/eGQN5Pu9FyCbCeTHIOSGFfpxN7YBQy9Z/2c9ca0425c32fdbe0efb6009858d6e7d08d1f06145fca785364862a1ecc9ff5f.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/0927960b-079c-4f5e-a367-05340bd47413/video.mp4)
 
